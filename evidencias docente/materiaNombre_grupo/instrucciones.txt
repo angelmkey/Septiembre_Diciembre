@@ -1,0 +1,5 @@
+Anexar los documentos solicitados en la carpeta de inicio
+Crear una copia de la carpeta “documentos por parcial” y nombrarla con Unidad_##. Dónde ## es el número de unidad.
+Unidad_01
+Unidad_02
+etc.. 
